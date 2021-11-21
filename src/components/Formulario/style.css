@@ -1,0 +1,17 @@
+.formulario-pessoa {
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 50%;
+  gap: 0.5rem;
+}
+
+.formulario-pessoa label {
+  text-align: left;
+}
+
+.formulario-pessoa input {
+  font-size: 1.3rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
